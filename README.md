@@ -19,18 +19,20 @@ Here are some ideas to get you started:
 
 # Bienvenido al perfil de MoralexCode
 
-👋 Soy Oscar Morales, un apasionado desarrollador de software con experiencia en tecnologías modernas y soluciones innovadoras.
+👋 Soy Oscar Morales, un apasionado desarrollador de software 💻 con experiencia en tecnologías modernas y soluciones innovadoras.
 
 ## Mis habilidades principales
 
 ### Lenguajes de programación
 - 🌟 JavaScript
-- 💻 Python 
+- 🐍 Python 
 
 ### Frameworks y herramientas
 - 🛠️ Node.js
-- 📦 React
-- 🐘 MongoDB
+- ⚛️ React
+- 🅰️ Angular
+- 🍂 MongoDB
+- 🐘 SQL
 - 📦 Express.js
 
 ## Proyectos destacados
