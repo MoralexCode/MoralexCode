@@ -41,14 +41,15 @@ Here are some ideas to get you started:
 [Enlace del proyecto 3](https://github.com/MoralexCode/genesis-cli) | [Enlace del proyecto 4](https://www.npmjs.com/package/genesis-cli)
 [Enlace del proyecto 5](https://github.com/MoralexCode/task-master-cli) | [Enlace del proyecto 5](https://www.npmjs.com/package/task-master-cli)
 
+<!--
 ## Estadísticas de GitHub
 
 ![Mi GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-
+-->
 ## Contacta conmigo
 
-📫 Email: moralexcode@gmail.com 
 📫 Email: oscarmorales.fullstackdeveloper@gmail.com
+📫 Email: moralexcode@gmail.com 
 🔗 LinkedIn: [linkedin.com/in/MoralexCode](https://www.linkedin.com/in/oscar-morales-garcia/)
 
 ## ¡Gracias por visitar mi perfil!
