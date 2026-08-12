@@ -1,0 +1,38 @@
+[2026-08-08T02:51:16.867Z] [200]  info: POST | NO TOKEN  | "/usuarios/login"
+[2026-08-08T02:51:16.867Z] [200]  info: Usuario.login | {"email":"mariana.reyes@correo.com","controlador":"UsuariosController"}
+[2026-08-08T02:51:16.937Z] [200]  info: Usuario.validateUser | {"found":true,"userId":"6b1204ccae874617fd2282ff","controlador":"UsuariosController"}
+[2026-08-08T02:51:17.342Z] [200]  info: GET | NO TOKEN  | "/productos/search"
+[2026-08-08T02:51:17.402Z] [200]  info: Usuario.login result | {"ok":false,"controlador":"UsuariosController"}
+[2026-08-08T02:51:17.403Z] [200]  info: API.sendApiError | {"requestId":"2d27ed01-efa0-49b0-a571-908eb67beab4","httpMethod":"POST","path":"/api/v1/usuarios/login","statusCode":401,"errorCode":"AUTH_INVALID_CREDENTIALS","message":"No hay usuarios registrados con estas credenciales.","details":null,"query":{},"bodyKeys":["email","password"],"params":{}}
+[2026-08-08T02:51:18.807Z] [200]  info: GET | NO TOKEN  | "/productos/search"
+[2026-08-08T02:51:19.448Z] [200]  info: GET | NO TOKEN  | "/productos/search"
+[2026-08-08T02:51:22.288Z] [200]  info: GET | NO TOKEN  | "/productos/search"
+[2026-08-08T02:51:24.917Z] [200]  info: GET | NO TOKEN  | "/config"
+[2026-08-08T02:51:24.922Z] [200]  info: GET | NO TOKEN  | "/tendencias"
+[2026-08-08T02:51:24.926Z] [200]  info: GET | NO TOKEN  | "/categorias"
+[2026-08-08T02:51:25.014Z] [200]  info: GET | NO TOKEN  | "/top-soluciones/:id"
+[2026-08-08T02:51:25.016Z] [200]  info: GET | NO TOKEN  | "/solutions"
+[2026-08-08T02:51:25.284Z] [200]  info: GET | NO TOKEN  | "/productos/public"
+[2026-08-08T02:51:25.285Z] [200]  info: Info | {"message":"Query","query":{},"controlador":"Productos"}
+[2026-08-08T02:51:47.112Z] [200]  info: GET | NO TOKEN  | "/productos/public"
+[2026-08-08T02:51:47.112Z] [200]  info: Info | {"message":"Query","query":{},"controlador":"Productos"}
+[2026-08-08T02:51:49.554Z] [200]  info: POST | NO TOKEN  | "/usuarios/login"
+[2026-08-08T02:51:49.554Z] [200]  info: Usuario.login | {"email":"mariana.reyes@correo.com ","controlador":"UsuariosController"}
+[2026-08-08T02:51:49.624Z] [200]  info: Usuario.validateUser | {"found":false,"controlador":"UsuariosController"}
+[2026-08-08T02:51:49.624Z] [200]  info: Usuario.login result | {"ok":false,"controlador":"UsuariosController"}
+[2026-08-08T02:51:49.624Z] [200]  info: API.sendApiError | {"requestId":"3cf764de-e7bc-4fd7-b3cf-e5533165f7fd","httpMethod":"POST","path":"/api/v1/usuarios/login","statusCode":401,"errorCode":"AUTH_INVALID_CREDENTIALS","message":"No hay usuarios registrados con estas credenciales.","details":null,"query":{},"bodyKeys":["email","password"],"params":{}}
+[2026-08-08T02:52:09.351Z] [200]  info: GET | NO TOKEN  | "/productos/public"
+[2026-08-08T02:52:09.351Z] [200]  info: Info | {"message":"Query","query":{},"controlador":"Productos"}
+[2026-08-08T02:52:18.115Z] [200]  info: GET | NO TOKEN  | "/productos/sku/:sku"
+[2026-08-08T02:52:18.117Z] [200]  info: GET | NO TOKEN  | "/config"
+[2026-08-08T02:52:18.447Z] [200]  info: GET | NO TOKEN  | "/productos/search"
+[2026-08-08T02:52:18.450Z] [200]  info: GET | NO TOKEN  | "/productos/public"
+[2026-08-08T02:52:18.450Z] [200]  info: Info | {"message":"Query","query":{"favorito":true},"controlador":"Productos"}
+[2026-08-08T02:52:25.375Z] [200]  info: GET | NO TOKEN  | "/productos/sku/:sku"
+[2026-08-08T02:52:25.377Z] [200]  info: GET | NO TOKEN  | "/config"
+[2026-08-08T02:52:25.575Z] [200]  info: GET | NO TOKEN  | "/productos/search"
+[2026-08-08T02:52:25.578Z] [200]  info: GET | NO TOKEN  | "/productos/public"
+[2026-08-08T02:52:25.579Z] [200]  info: Info | {"message":"Query","query":{"favorito":true},"controlador":"Productos"}
+[2026-08-08T02:52:27.534Z] [200]  info: GET | NO TOKEN  | "/productos/public"
+[2026-08-08T02:52:27.534Z] [200]  info: Info | {"message":"Query","query":{},"controlador":"Productos"}
+[2026-08-08T02:52:27.904Z] [200]  info: GET | NO TOKEN  | "/productos/sku/:sku"

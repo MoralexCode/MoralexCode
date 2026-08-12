@@ -1,0 +1,21 @@
+{
+  "name": "centinela-server",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "src/centinela-api.js",
+  "scripts": {
+    "analizar": "node src/scripts/analizar.js",
+    "descubrir:pm2": "node src/scripts/descubrir-pm2.js",
+    "demo": "node src/scripts/analizar.js --app comunidad --id 3cf764de-e7bc-4fd7-b3cf-e5533165f7fd --relacionadas 2",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  },
+  "optionalDependencies": {
+    "js-tiktoken": "^1.0.15"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
